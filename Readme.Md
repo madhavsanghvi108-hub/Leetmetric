@@ -75,13 +75,13 @@ https://leetcode-api-faisalshohag.vercel.app/{username}
 
 ## Screenshots
 
-Add screenshots of the application here.
+## Home Page
 
-Example:
+![Home](assets/home.png)
 
-```markdown
-![Home Page](image.png)
-```
+## Search Result
+
+![Result](assets/result.png)
 
 ## Contributing
 
